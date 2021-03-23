@@ -1,6 +1,9 @@
 # ✨*The* Decentralized Science Repository✨
 Decentralized Science (DeSci) is what we call digital communities of global citizen scientists working together to solve challenging scientific problems.
 
+[![Opscientia](https://img.shields.io/discord/819266495972507699.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/S3uDbdFKA9)
+
+
 ## 📚 The DeSci Stack
 We are actively building the software stack for empowering citizen science communities. Our core team are neuroscientists by training but our stack is intended to be plug-and-play for any digital community requiring evidence-based decision making using crowd-sourced data, cloud services, and decentralized community management.
 
@@ -72,5 +75,4 @@ The DeSci stack is far from complete and does not provide a true statement of va
 Check out our issues page to get an idea of ongoing projects if you'd like to contribute! 
 
 Have an idea? Want to contribute but don't know how? Chat with us on Discord!
-[![Opscientia](https://img.shields.io/discord/819266495972507699.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/S3uDbdFKA9)
 
