@@ -3,6 +3,14 @@ Decentralized Science (DeSci) is what we call digital communities of global citi
 
 [![Opscientia](https://img.shields.io/discord/819266495972507699.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/S3uDbdFKA9)
 
+## Active Projects & Quick Links
+
+### BIDS-DID
+
+* [BIDS Specification](https://bids-specification.readthedocs.io/en/stable/01-introduction.html)
+* [BIDS Governance Documentation](https://bids.neuroimaging.io/governance.html)
+* [BIDS-DID Specification Fork](https://github.com/opscientia/bids-specification)
+* [pyBIDS](https://github.com/bids-standard/pybids)
 
 ## 📚 The DeSci Stack
 We are actively building the software stack for empowering citizen science communities. Our core team are neuroscientists by training but our stack is intended to be plug-and-play for any digital community requiring evidence-based decision making using crowd-sourced data, cloud services, and decentralized community management.
