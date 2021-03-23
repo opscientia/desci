@@ -1,7 +1,7 @@
-# *The* Decentralized Science Repository
+# ✨*The* Decentralized Science Repository✨
 Decentralized Science (DeSci) is what we call digital communities of global citizen scientists working together to solve challenging scientific problems.
 
-## The DeSci Stack
+## 📚 The DeSci Stack
 We are actively building the software stack for empowering citizen science communities. Our core team are neuroscientists by training but our stack is intended to be plug-and-play for any digital community requiring evidence-based decision making using crowd-sourced data, cloud services, and decentralized community management.
 
 ### Storage :: Peer-to-Peer Storage on Interplanetary File System (IPFS)
@@ -13,11 +13,11 @@ The most significant benefit IPFS holds for DeSci is not the most obvious, but i
 
 A DeSci Community can use IPFS to:
 
-1. Store large datasets and command on-demand wide bandwidth for upload/download
-2. Create private IPFS networks distributed around the world to permanently store important scientific data
-3. Fight censorship and promote open data
-4. Store cute kitty pics
-5. And as a building block for building decentralized applications (dApps) with data self-sovereignty of the user baked-in
+1. Store large datasets and command on-demand wide bandwidth for upload/download 💻
+2. Create private IPFS networks distributed around the world to permanently store important scientific data 🧪
+3. Fight censorship and promote open data 🦾
+4. Store cute kitty pics 🥰
+5. And as a building block for building decentralized applications (dApps) with data self-sovereignty of the user baked-in ✊🏽
 
 You can learn more about IPFS [here](https://docs.ipfs.io/).
 See all the cool ipfs dapps at [awesome.ipfs](https://awesome.ipfs.io/tools/).
@@ -36,7 +36,7 @@ Check out an implementation of DID with [3box profiles](https://3box.io/).
 ### Confidential & Federated Cloud Computing
 Our first instinct as data analysts is that we need hands on data in order to put it through the paces of quality control, preprocessing, confound modeling, maybe synthesis with other datasets.. and that's all before we can deploy it to answer our scientific question.
 
-A much better approach that respects [informational self-determination](https://en.wikipedia.org/wiki/Informational_self-determination#:~:text=Informational%20self%2Ddetermination%20reflects%20Westin's,%E2%80%9D%20(Westin%2C%201970) and also lets institutions mantain access control to sensitive data is to bring the computation to the data. 
+A much better approach that respects [informational self-determination](https://en.wikipedia.org/wiki/Informational_self-determination#:~:text=Informational%20self%2Ddetermination%20reflects%20Westin's,%E2%80%9D%20(Westin%2C%201970)) and also lets institutions mantain access control to sensitive data is to bring the computation to the data. 
 
 What does this mean? Well, implementations of confidential computing allow encrypted cloud sessions to grab secure personal data from IPFS, run an analysis, and make the final results available to the requestor without ever revealing the data. This way individuals keep their data secure but others can leverage it to perform useful analyses!
 
